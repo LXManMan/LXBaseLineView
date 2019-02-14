@@ -1,0 +1,6 @@
+framework module Pods_LXBaseLineView {
+  umbrella header "Pods-LXBaseLineView-umbrella.h"
+
+  export *
+  module * { export * }
+}
